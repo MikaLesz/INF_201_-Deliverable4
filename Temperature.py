@@ -1,4 +1,3 @@
-"""Temperature class supporting Celsius, fahrenheit, and kelvin"""
 
 from __future__ import annotations
 
@@ -13,7 +12,7 @@ class Temperature:
 
     def __init__(self, value: float, unit: str = "C") -> None:  # unit check first, so a bad unit gives a clear error
         if not isinstance(unit, str) or unit.strip().upper() not in _VALID_UNITS:
-            raise ValueError(f"Invalid unit {unit!r}. Use 'C', 'F' og 'K' ")
+            raise ValueError(f"Invalid unit {unit!r}. Use 'C', 'F' or 'K' ")
         if isinstance(value, bool) or not isinstance(value, (int, float)):
             raise TypeError("value must be a number (int or float)")
         if not math.isfinite(value):
