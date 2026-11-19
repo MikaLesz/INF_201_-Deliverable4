@@ -1,0 +1,13 @@
+* 1556a4a - Dominika Leszczynska, 3 minutes ago : commit 8
+*   a496da3 - Dominika Leszczynska, 8 minutes ago : Resolve merge conflict
+|\  
+| * fa5afd1 - Dominika Leszczynska, 30 minutes ago : commit6
+* | c51a20b - Dominika Leszczynska, 17 minutes ago : commit 7
+* | fcfabd5 - Dominika Leszczynska, 19 minutes ago : fail
+* | c9cc885 - Dominika Leszczynska, 21 minutes ago : commit6
+|/  
+* adc0587 - Dominika Leszczynska, 33 minutes ago : commit 5
+* dcef8bf - Dominika Leszczynska, 41 minutes ago : comit 4
+* 9c3464a - Dominika Leszczynska, 2 hours ago : commit3
+* 55b900d - Dominika Leszczynska, 27 hours ago : comit 2
+* d2b441b - Dominika Leszczynska, 28 hours ago : commit 1
